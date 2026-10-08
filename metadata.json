@@ -1,0 +1,6 @@
+{
+  "name": "رافد للآليات الثقيلة - العراق",
+  "description": "منصة متكاملة لطلب وتأجير الآليات الثقيلة ونقل الأتربة والمواد الإنشائية في العراق بتصميم بينتو احترافي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
